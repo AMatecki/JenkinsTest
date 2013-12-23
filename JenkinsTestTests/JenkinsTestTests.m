@@ -29,7 +29,7 @@
 - (void)testExample
 {
    // XCTFail(@"No implementation for \"%s\"", __PRETTY_FUNCTION__);
-    XCTAssertTrue(YES, @"Test passed");
+    XCTAssertTrue(YES, @"Test passed well");
 }
 
 @end
